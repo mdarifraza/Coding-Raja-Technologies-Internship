@@ -1,5 +1,6 @@
 # Coding-Raja-Technologies-Internship
-Python To-Do List App
+TASK 1= Python To-Do List App
+TASK 2= personal budget tracker 
 
 A simple and practical To-Do List Application built with Python. Stay organized and manage your tasks efficiently using this command-line task manager. Boost your productivity with Python's power!
 Features
