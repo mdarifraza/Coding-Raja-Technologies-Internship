@@ -11,20 +11,7 @@ Features
 
 Getting Started
 
-    Clone the repository: git clone (https://github.com/Varnithvarma/ToDoList-Python)
-    Run the application: python main.py
+    Clone the repository: git clone (https://github.com/mdarifraza)
+    Run the application: to-do list.py
 
-How to Use
 
-    Choose options from the menu to add, view, or delete tasks.
-    Follow the on-screen prompts for task details.
-    Tasks will be saved to tasks.txt for future use.
-
-Requirements
-
-    Python 3.x
-    Pillow (PIL) library (optional for image processing)
-
-Contribution
-
-Contributions are welcome! Fork the repository and submit a pull request.
